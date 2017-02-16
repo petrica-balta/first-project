@@ -1,0 +1,97 @@
+body {
+	font-family: Arial;
+}
+
+h1 {
+	font-weight: bold;
+} 
+
+.font {
+	color: white !important;
+	text-decoration: none;
+}
+
+.project {
+	font-weight: bold;
+	font-size: 150%;
+	font-family: 'Muli', sans-serif;
+}
+
+.light {
+	font-weight: 100;
+}
+
+.header {
+	background-color: #1ABC9C;
+	border-color: #1ABC9C !important;
+}
+
+.dimension {
+	height:100px;
+	padding: 35px;
+}
+
+.user {
+	width: 100px;
+	height: 100px;
+}
+
+.text {
+	background-color: #F2F2F2;
+	padding: 60px;
+}
+
+.align {
+
+}
+
+.imagine {
+	padding: 45px 5px 20px 5px;
+}
+.poze {
+	width: 350px;
+	height: 300px;
+}
+ 
+footer {
+	background-color: #222;
+	color: white;
+	padding-bottom: 40px;
+}
+
+h4 {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-weight: bold;
+}
+
+.footer-links {
+	padding: 0;
+    list-style-type: none;
+}
+
+.footer_link:focus, .footer_link:hover {
+	text-decoration: none;
+}
+
+.despre {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+hr {
+	background: #000000;
+	height: 1px;
+}
+
+.spacep {
+	margin-bottom: 65px;
+}
+
+.spatiere {
+	margin-top: 30px;
+}
+
+.spatiusubmit {
+	margin-top: 15px;
+	margin-bottom: 40px;
+}
